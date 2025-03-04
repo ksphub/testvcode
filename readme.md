@@ -1,1 +1,1 @@
-#### This is a sample gcp repository
+# This is a sample gcp repository
